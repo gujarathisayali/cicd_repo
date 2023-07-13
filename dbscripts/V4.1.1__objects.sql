@@ -1,4 +1,4 @@
-Create or Replace table demo.test.WEATHER(
+Create or Replace table demo.test.WEATHER1(
     Precipitation Number(5,3),
     Date varchar(10),
     Month Number(2),
